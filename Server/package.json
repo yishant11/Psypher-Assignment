@@ -14,10 +14,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/omkarawasthi/Flipkart-clone/issues"
-  },
-  "homepage": "https://github.com/omkarawasthi/Flipkart-clone#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
